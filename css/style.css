@@ -1,0 +1,9 @@
+label {
+  display: inline-block;
+  width: 100px;
+  text-align: left;
+}
+.center {
+  margin-top: 50px;
+  margin-left: 150px;
+}
